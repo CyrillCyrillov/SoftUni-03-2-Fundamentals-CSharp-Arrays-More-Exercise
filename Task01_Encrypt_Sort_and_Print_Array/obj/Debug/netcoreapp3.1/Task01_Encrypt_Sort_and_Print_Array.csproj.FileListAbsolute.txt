@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\03_Exercise_More\03_Exercise_More\bin\Debug\netcoreapp3.1\Task01_Encrypt_Sort_and_Print_Array.exe
+C:\Users\Kiril\source\repos\03_Exercise_More\03_Exercise_More\bin\Debug\netcoreapp3.1\Task01_Encrypt_Sort_and_Print_Array.deps.json
+C:\Users\Kiril\source\repos\03_Exercise_More\03_Exercise_More\bin\Debug\netcoreapp3.1\Task01_Encrypt_Sort_and_Print_Array.runtimeconfig.json
+C:\Users\Kiril\source\repos\03_Exercise_More\03_Exercise_More\bin\Debug\netcoreapp3.1\Task01_Encrypt_Sort_and_Print_Array.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\03_Exercise_More\03_Exercise_More\bin\Debug\netcoreapp3.1\Task01_Encrypt_Sort_and_Print_Array.dll
+C:\Users\Kiril\source\repos\03_Exercise_More\03_Exercise_More\bin\Debug\netcoreapp3.1\Task01_Encrypt_Sort_and_Print_Array.pdb
+C:\Users\Kiril\source\repos\03_Exercise_More\03_Exercise_More\obj\Debug\netcoreapp3.1\Task01_Encrypt_Sort_and_Print_Array.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\03_Exercise_More\03_Exercise_More\obj\Debug\netcoreapp3.1\Task01_Encrypt_Sort_and_Print_Array.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\03_Exercise_More\03_Exercise_More\obj\Debug\netcoreapp3.1\Task01_Encrypt_Sort_and_Print_Array.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\03_Exercise_More\03_Exercise_More\obj\Debug\netcoreapp3.1\Task01_Encrypt_Sort_and_Print_Array.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\03_Exercise_More\03_Exercise_More\obj\Debug\netcoreapp3.1\Task01_Encrypt_Sort_and_Print_Array.dll
+C:\Users\Kiril\source\repos\03_Exercise_More\03_Exercise_More\obj\Debug\netcoreapp3.1\Task01_Encrypt_Sort_and_Print_Array.pdb
+C:\Users\Kiril\source\repos\03_Exercise_More\03_Exercise_More\obj\Debug\netcoreapp3.1\Task01_Encrypt_Sort_and_Print_Array.genruntimeconfig.cache
